@@ -1,0 +1,10 @@
+.center{text-align: center;}
+.font{font-family:'Times New Roman', Times, serif}
+.font2{font-family:'Times New Roman', Times, serif; font-size: larger;}
+.spice{color: blue; font-family: 'Courier New', monospace; font-weight: bold;}
+.divider{background-color: #0095ff; border: 0;}
+.title {text-decoration:underline;}
+figure{width: 304px; margin:0px; padding:0px; display: inline-block;}
+div{display: inline-block;}
+input[type=text] {width: 300px;}
+h1,h2,h3,h4,h5,h6,p,form{color: white}
