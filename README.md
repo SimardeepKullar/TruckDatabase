@@ -6,3 +6,5 @@ A connection to the Orcale database must be created before execution of the prog
 To see this application in action OpenVPN is required to connect to Toronto Metropolition University's servers. Once a connection is secured,
 this link will become accessible.
 https://webdev.scs.ryerson.ca/~s3kullar/
+
+To see images of the web page instead, please see the png files attached.
